@@ -37,10 +37,12 @@ while (f != 0)
         }
         
         Console.WriteLine("Ответ " + a);
+        Console.WriteLine("");
     }
     if (number2 == 0)
     {
         Console.WriteLine("Ответ " + 1);
+        Console.WriteLine("");
     }
     f++;
 }

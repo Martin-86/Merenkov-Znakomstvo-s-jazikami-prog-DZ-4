@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\bin\Debug\net6.0\Summa cifr.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\bin\Debug\net6.0\Summa cifr.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\bin\Debug\net6.0\Summa cifr.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\bin\Debug\net6.0\Summa cifr.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\bin\Debug\net6.0\Summa cifr.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\obj\Debug\net6.0\Summa cifr.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\obj\Debug\net6.0\Summa cifr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\obj\Debug\net6.0\Summa cifr.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\obj\Debug\net6.0\Summa cifr.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\obj\Debug\net6.0\Summa cifr.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\obj\Debug\net6.0\Summa cifr.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\obj\Debug\net6.0\refint\Summa cifr.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\obj\Debug\net6.0\Summa cifr.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\obj\Debug\net6.0\Summa cifr.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-4\Summa cifr\obj\Debug\net6.0\ref\Summa cifr.dll
